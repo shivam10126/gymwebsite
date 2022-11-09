@@ -141,7 +141,7 @@ height: 75vh;
 }
 #form::before {
     content: "";
-    background: url(images/bgimages/bg2.jpg) ;
+    background: url(images/bgimages\ bg10.jpg) ;
     position: absolute;
     top: 0px;
     left: 0px;
