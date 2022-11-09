@@ -150,6 +150,9 @@ html {
     font-family: 'Rubik', sans-serif;
 
 }
+body{
+    background-color:black;
+}
 
 #home::before {
     content: "";
