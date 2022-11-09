@@ -153,7 +153,7 @@ html {
 
 #home::before {
     content: "";
-    background: url(/images/bgimages/bg14.jpg) no-repeat center center/cover;
+    background: url(images/bgimages/bg14.jpg) no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left: 0px;
